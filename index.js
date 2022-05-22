@@ -28,7 +28,7 @@ document.querySelectorAll(".drum")[i].addEventListener("click",function(){
         break;
 
        case "j":
-        var audio = new Audio("sounds/snare.mp3");
+        var audio = new Audio("snare.mp3");
         audio.play();
         break;
 
